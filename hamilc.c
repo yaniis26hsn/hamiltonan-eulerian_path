@@ -157,10 +157,10 @@ else
 min = m ;
 
 if(iseul()){
-    printf("an eulerian path exists") ;
+    printf("an hamiltonian circuit exists") ;
 }
 else{
-    printf("an eulerian path doesnt exists") ;
+    printf("an hamiltonian circuit doesnt exists") ;
 }
  
 
